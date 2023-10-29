@@ -1,0 +1,62 @@
+h1.entry-title{
+    display:none;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;/*文字色*/
+    /*線の種類（点線）2px 線色*/
+    border-bottom: dashed 2px #ffffff;
+}
+
+h3 {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ffffff;
+    display: inline-block;
+  }
+
+p {
+    color:rgb(255, 255, 255);
+}
+
+.search,.nyuryoku{
+    margin: 10px;
+}
+
+.search,.hoge{
+    width: 50% !important;
+}
+
+.hoge:hover{
+    background-color: #ccc !important;
+    color: #84172f !important;
+    letter-spacing: 0.15em;
+}
+
+.btn--orange,
+button.btn--orange {
+    margin-bottom: 20px;
+  color: #fff;
+  background-color: #eb6100;
+}
+.btn--orange:hover,
+button.btn--orange:hover {
+  color: #fff;
+  background: #f56500;
+}
+
+button.btn--radius {
+   border-radius: 100vh;
+}
+
+.kensaku{
+    color: #eb6100;
+}
+
+.freebutton{
+    text-align:  center; 
+    margin-top: 5px;
+}
+th{
+    background-color: #84172f!important;
+}
