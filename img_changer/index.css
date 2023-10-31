@@ -1,0 +1,13 @@
+.pics img { width: 70%; }
+.btns img { width: 8%; }
+.main{
+    text-align:center;
+}
+.pics{
+    float:left;
+    width: 70%;
+}
+.btn{
+    margin-top: 30px;
+    cursor: pointer;
+}
